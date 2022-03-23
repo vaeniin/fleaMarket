@@ -13,7 +13,7 @@
 ### Features
 Register/Login with 4-digit passcode that is email to user.
 
-<img src="https://user-images.githubusercontent.com/88080506/159751778-e53333aa-1525-47cc-9b6d-cb8df863abd6.png" width=25% height=25%> <img src="https://user-images.githubusercontent.com/88080506/159751787-ace57b1c-5883-4f5b-bfd9-82c1fc0f680d.png" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/88080506/159751778-e53333aa-1525-47cc-9b6d-cb8df863abd6.png" width=25% height=25%> <img src="https://user-images.githubusercontent.com/88080506/159751787-ace57b1c-5883-4f5b-bfd9-82c1fc0f680d.png" width=40% height=40%>
 
 Browsing listings by categories, type, location or search terms matched to heading or tags.
 
